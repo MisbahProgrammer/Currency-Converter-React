@@ -1,3 +1,8 @@
+In this project i use react using vite and built a currency converter which which convert any currency.I use useState,useCallBack,useRef and use Effect hook in this project.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
